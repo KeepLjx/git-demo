@@ -15,5 +15,5 @@ hello git! hello jiaxin!
 hello git! hello jiaxin!
 hello git! hello jiaxin!
 hello git! hello jiaxin!
-hello git! hello jiaxin!
+hello git! hello jiaxin! hot-fix test
 热修改结束
